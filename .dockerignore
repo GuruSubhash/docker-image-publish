@@ -1,0 +1,13 @@
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.env
+.env.*
+coverage
+dist
+tests
+node-service-starter
+README.md
+eslint.config.js
+
